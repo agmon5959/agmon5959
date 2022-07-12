@@ -1,4 +1,3 @@
-<div style="background-color: white;">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=DongDong's%20GitHub&fontSize=30&animation=fadeIn&desc=WELCOME?%20:\)&fontColor=ffffff&customColorList=12)
 
 <div align = 'center'>
@@ -12,4 +11,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
 
-</div>
