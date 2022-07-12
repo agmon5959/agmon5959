@@ -8,6 +8,6 @@
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=agmon5959">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=agmon5959"/>
