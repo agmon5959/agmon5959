@@ -31,20 +31,12 @@
   
 <hr/>
 <div>
-    <div>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
-      
-  </div>
-  
-
-    
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-    
-
     
 </div>
   
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
 </div>
 <hr/>
