@@ -18,10 +18,24 @@ Let me introduce myself
 <hr/>
 <div align = 'center'>
   
-  <div>
-  
+<div>
+  <div width = '50%'>
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
-  
+    
   </div>
+  
+    <div width = '30%'>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
+    
+  </div>
+  
+</div>
+  
+  
 </div>
 <hr/>
+
+  div.left {        width: 50%;        float: left;        box-sizing: border-box;                background: #ff0;    }    
+  div.right {        width: 50%;        float: right;        box-sizing: border-box;                background: #0ff;    }
