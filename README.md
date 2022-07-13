@@ -4,10 +4,12 @@
 <div align = 'center'>
   
 🙋 안녕하세요 성실히 노력하는 프론트엔드 개발자 <strong>김동훈</strong>입니다.
-
+<hr/>
 😎 My Skills
+
 <p>
   <p>
+      <hr/>
   💪 Main Skills
   </p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -18,6 +20,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
 
   <p>
+    <hr/>
  ✍️ Sub Skills
   </p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
@@ -26,6 +29,7 @@
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
 
 <p>
+    <hr/>
   🛠 Tools
   </p>
 <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
@@ -39,6 +43,7 @@
   
   
 😊 Contact me
+  <hr/>
   
 <p>
 
@@ -50,13 +55,8 @@
 
   
 <hr/>
-<div>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
-</div>
-  
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  
 </div>
 <hr/>
