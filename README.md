@@ -16,23 +16,13 @@ Let me introduce myself
 </a>
   
 <hr/>
-<div align = 'center'>
-  
-<div style="display: flex; height: 100px;">
-  
-        <div style="width: 50%; background: green;">
+<div>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
-  </div>
-  
-        <div style="flex-grow: 1; background: blue;">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
-    
-  </div>
-  
 </div>
+  
+
   
   
 </div>
