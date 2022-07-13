@@ -18,14 +18,15 @@ Let me introduce myself
 <hr/>
 <div align = 'center'>
   
-<div>
-  <div width = '50%' , float = 'left' , box-sizing = 'border-box'>
+<div  style="display: flex; height: 100px;">
+  
+        <div style="width: 50%; background: green;">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
   </div>
   
-  <div width = '50%', float = 'right'>
+        <div style="flex-grow: 1; background: blue;">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
@@ -37,5 +38,19 @@ Let me introduce myself
 </div>
 <hr/>
 
-  div.left {        width: 50%;        float: left;        box-sizing: border-box;                background: #ff0;    }    
-  div.right {        width: 50%;        float: right;        box-sizing: border-box;                background: #0ff;    }
+  
+<div  style="display: flex; height: 100px;">
+
+        <div style="width: 50%; background: green;">
+
+            Left Div
+
+        </div>
+
+        <div style="flex-grow: 1; background: blue;">
+
+            Right Div
+
+        </div>
+
+    </div>
