@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> 
   
-    <hr/>
+<hr/>
 😊 Contact me
   
 <p>
