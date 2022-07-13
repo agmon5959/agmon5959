@@ -11,7 +11,8 @@
 
   <div>
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
-    <img src="https://img.shields.io/badge/[TypeScript](https://ddhun.tistory.com/)-3178C6?style=for-the-badge&logo=appveyor&logoColor=white"/>
+    <img src="https://img.shields.io/badge/https://ddhun.tistory.com-09B3AF?style=flat-square&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/[TypeScript](https://ddhun.tistory.com/)-3178C6?style=for-the-badge&logo=appveyor&logoColor=white"/> -->
   </div>
 </div>
 
