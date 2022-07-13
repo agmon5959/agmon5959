@@ -19,13 +19,13 @@ Let me introduce myself
 <div align = 'center'>
   
 <div>
-  <div width = '50%'>
+  <div width = '50%' , float = 'left'>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
   </div>
   
-  <div width = '50%'>
+  <div width = '50%', float = 'right'>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
