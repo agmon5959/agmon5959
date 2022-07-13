@@ -5,8 +5,8 @@
 <hr/>
 <div align = 'center'>
   
-🙋 Hi, There
-Let me introduce myself 
+🙋 안녕하세요 성실히 노력하는 프론트엔드 개발자 <strong>김동훈</strong>입니다.
+
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
