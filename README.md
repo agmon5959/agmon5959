@@ -1,8 +1,6 @@
-<hr/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=DongDong's%20GitHub&fontSize=30&animation=fadeIn&desc=WELCOME?%20:\)&fontColor=ffffff&customColorList=12)
 
-<hr/>
 <div align = 'center'>
   
 🙋 안녕하세요 성실히 노력하는 프론트엔드 개발자 <strong>김동훈</strong>입니다.
