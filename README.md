@@ -7,14 +7,20 @@
 
 <p>
   
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/html-E6B91E?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />&nbsp   
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/html-E6B91E?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />&nbsp 
+  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Mobx-F24E1E?logo=mobx&logoColor=white" />&nbsp   
+  <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&logoColor=black" />&nbsp   
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />&nbsp 
   
 </p>
 
