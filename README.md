@@ -47,9 +47,7 @@
 <a href="https://ddhun.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
 </a>
-  
-  <a href="mailto:qltkd5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<!--  &link=viliketh1s98@naver.com  -->
+<a href="mailto:qltkd5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
 
