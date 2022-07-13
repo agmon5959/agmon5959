@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 
-
-<img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=appveyor&logo=TypeScript&logoColor=white"/> -->
-
+  <div>
+    <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
+    <img src="https://img.shields.io/badge/[TypeScript](https://ddhun.tistory.com/)-3178C6?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  </div>
 </div>
 
 <hr/>
