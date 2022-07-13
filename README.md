@@ -19,7 +19,7 @@ Let me introduce myself
 <div align = 'center'>
   
 <div>
-  <div width = '50%' , float = 'left'>
+  <div width = '50%' , float = 'left' , box-sizing = 'border-box'>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
