@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
 
-<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=CSharp&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
