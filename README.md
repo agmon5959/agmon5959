@@ -41,8 +41,7 @@
   
 <hr/>
 😊 Contact me
-  
-  
+  <p/>
 <p>
 
 <a href="https://ddhun.tistory.com/" target="_blank">
