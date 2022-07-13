@@ -18,7 +18,7 @@ Let me introduce myself
 <hr/>
 <div align = 'center'>
   
-<div  style="display: flex; height: 100px;">
+<div style="display: flex; height: 100px;">
   
         <div style="width: 50%; background: green;">
     
@@ -37,20 +37,3 @@ Let me introduce myself
   
 </div>
 <hr/>
-
-  
-<div  style="display: flex; height: 100px;">
-
-        <div style="width: 50%; background: green;">
-
-            Left Div
-
-        </div>
-
-        <div style="flex-grow: 1; background: blue;">
-
-            Right Div
-
-        </div>
-
-    </div>
