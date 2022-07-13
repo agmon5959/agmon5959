@@ -12,13 +12,14 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square?logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square?logo=Next.js&logoColor=white" />
   
 </p>
 
   
 😊 Contact me
+  
 <p>
 
 <a href="https://ddhun.tistory.com/" target="_blank">
@@ -32,11 +33,11 @@
 <div>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
+  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
     
 </div>
   
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
 </div>
 <hr/>
