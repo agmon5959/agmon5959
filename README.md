@@ -25,7 +25,7 @@ Let me introduce myself
     
   </div>
   
-    <div width = '30%'>
+  <div width = '50%'>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
