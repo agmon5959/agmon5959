@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=DongDong's%20GitHub&fontSize=30&animation=fadeIn&desc=WELCOME?%20:\)&fontColor=ffffff&customColorList=12)
 -->
 
-<div align = 'center'>
+<div align = 'left'>
   
-🙋 안녕하세요 프론트엔드 개발자 <strong>김동훈</strong>입니다.
+🙋 Hi, there I'm FrontEnd Developer <strong>Kim Dong Hun</strong>.
 
 <p>
   <p>
