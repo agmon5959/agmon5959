@@ -9,7 +9,7 @@
 <br/>
 <p>
   <p>
-  💪 Main Skills
+  <h2>💪 Main Skills</h2>
   </p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
   <p>
   <br/>
- ✍️ Sub Skills
+    <h2>✍️ Sub Skills</h2>
   </p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"></a>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
 <p>
 <br/>
-  🛠 Tools
+  <h2>🛠 Tools</h2>
   </p>
 <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a> 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> 
 <br/>
 <br/>
-😊 Contact me
+  <h2>😊 Contact me</h2>
   <p/>
 <p>
 <a href="https://ddhun.tistory.com/" target="_blank">
