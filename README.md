@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
 
   <p>
-    <hr/>
  ✍️ Sub Skills
   </p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
@@ -29,7 +28,7 @@
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
 
 <p>
-    <hr/>
+
   🛠 Tools
   </p>
 <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
