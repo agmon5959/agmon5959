@@ -6,10 +6,9 @@
 <div align = 'left'>
   
 <h1>🙋 Hi, there I'm FE Developer <strong>Kim Dong Hun</strong>.</h1>
-
+<br/>
 <p>
   <p>
-
   💪 Main Skills
   </p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -18,21 +17,17 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
-
   <p>
-  
+  <br/>
  ✍️ Sub Skills
- 
   </p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
-
 <p>
-
+<br/>
   🛠 Tools
-  
   </p>
 <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a> 
@@ -42,12 +37,11 @@
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> 
-  
-
+<br/>
 😊 Contact me
-
   <p/>
 <p>
+<br/>
 
 <a href="https://ddhun.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
