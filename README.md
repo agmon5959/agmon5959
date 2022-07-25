@@ -50,7 +50,7 @@
   
 </p>
 <br/>
-<h2>⭐️ Git stat</h2>
+<h2>✨ Git stats</h2>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
