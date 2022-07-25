@@ -41,8 +41,6 @@
 😊 Contact me
   <p/>
 <p>
-<br/>
-
 <a href="https://ddhun.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
 </a>
