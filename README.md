@@ -7,6 +7,7 @@
   
 <h1>🙋 Hi, there I'm FE Developer <strong>Kim Dong Hun</strong>.</h1>
 <br/>
+  <br/>
 <p>
   <p>
   <h2>💪 Main Skills</h2>
@@ -48,9 +49,6 @@
 <a href="mailto:qltkd5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
-
-  
-<hr/>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
