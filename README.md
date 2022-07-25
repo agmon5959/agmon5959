@@ -5,7 +5,7 @@
 
 <div align = 'left'>
   
-🙋 Hi, there I'm FE Developer <strong>Kim Dong Hun</strong>.
+<h1>🙋 Hi, there I'm FE Developer <strong>Kim Dong Hun</strong>.</h1>
 
 <p>
   <p>
