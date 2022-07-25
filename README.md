@@ -20,7 +20,9 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
 
   <p>
+  
  ✍️ Sub Skills
+ 
   </p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"></a>
@@ -30,6 +32,7 @@
 <p>
 
   🛠 Tools
+  
   </p>
 <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a> 
@@ -40,8 +43,9 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> 
   
-<hr/>
+
 😊 Contact me
+
   <p/>
 <p>
 
@@ -58,4 +62,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
     
 </div>
-<hr/>
