@@ -5,7 +5,7 @@
 
 <div align = 'left'>
   
-<h1>🙋 Hi, there I'm FE Developer <strong>Kim Dong Hun</strong>.</h1>
+<h1>🙋 Hi, there I'm FE Developer <strong>Dong Hun Kim</strong>.</h1>
 <br/>
   <br/>
 <p>
