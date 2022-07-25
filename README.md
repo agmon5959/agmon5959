@@ -5,7 +5,7 @@
 
 <div align = 'left'>
   
-🙋 Hi, there I'm FrontEnd Developer <strong>Kim Dong Hun</strong>.
+🙋 Hi, there I'm FE Developer <strong>Kim Dong Hun</strong>.
 
 <p>
   <p>
