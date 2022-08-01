@@ -7,7 +7,7 @@
   
 <h1>🙋 Hi, there I'm FE Developer <strong>Dong Hun Kim</strong>.</h1>
 <br/>
-  <br/>
+
 <p>
   <p>
   <h2>💪 Main Skills</h2>
