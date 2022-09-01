@@ -3,15 +3,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=DongDong's%20GitHub&fontSize=30&animation=fadeIn&desc=WELCOME?%20:\)&fontColor=ffffff&customColorList=12)
 -->
 
+<div align = 'center'>
+
 ![image](https://user-images.githubusercontent.com/58665661/187877918-daf80e6b-d566-443e-a85d-a8220e1504eb.png)
 
+</div>
 
-<div align = 'left'>
+<!--
+
 <br/>
 <br/>
 🙋 Hi, there I'm FE Developer <strong>Dong Hun Kim</strong>
 <br/>
 <br/>
+
+-->
 
 <!--
 <p>
@@ -47,7 +53,10 @@
 <br/>
 <br/>
 -->
-👇 Contact me
+
+<div align = 'center'>
+
+<h2>👇 Contact me</h2>
   <p/>
 <p>
 <a href="https://ddhun.tistory.com/" target="_blank">
@@ -60,5 +69,6 @@
 <h2>✨ Git stats</h2>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
-    
+
+</div>    
 </div>
