@@ -3,9 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=DongDong's%20GitHub&fontSize=30&animation=fadeIn&desc=WELCOME?%20:\)&fontColor=ffffff&customColorList=12)
 -->
 
+![image](https://user-images.githubusercontent.com/58665661/187877918-daf80e6b-d566-443e-a85d-a8220e1504eb.png)
+
+
 <div align = 'left'>
-  
-<h1>🙋 Hi, there I'm FE Developer <strong>Dong Hun Kim</strong>.</h1>
+<br/>
+<br/>
+🙋 Hi, there I'm FE Developer <strong>Dong Hun Kim</strong>
+<br/>
 <br/>
 
 <!--
@@ -42,7 +47,7 @@
 <br/>
 <br/>
 -->
-  <h2>😊 Contact me</h2>
+👇 Contact me
   <p/>
 <p>
 <a href="https://ddhun.tistory.com/" target="_blank">
