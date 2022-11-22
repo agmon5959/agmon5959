@@ -64,11 +64,5 @@
 </a>
 <a href="mailto:qltkd5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
-</p>
-<br/>
-<h2>✨ Git stats</h2>
-      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmon5959&include_all_commits=false&show_icons=true&theme=react)
-
 </div>    
 </div>
