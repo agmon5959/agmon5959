@@ -11,7 +11,8 @@
 <h2>👇 Contact me</h2>
   <p/>
 <p>
-<a href="https://ddhun.tistory.com/" target="_blank">
+
+<a href="https://velog.io/@qltkd5959" target="_blank">
 <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
 </a>
 <a href="mailto:qltkd5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
